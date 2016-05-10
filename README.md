@@ -1,2 +1,5 @@
 # test
-a tst repository
+a test repository 
+
+to practice git commands
+
